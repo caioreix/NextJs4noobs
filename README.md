@@ -1,7 +1,7 @@
 # NextJs4noobs
 
 <h1 align="center">
-  <img src="https://assets.zeit.co/image/upload/v1538361091/repositories/next-js/next-js.png" alt="nextjs-image" width="120">
+  <img src="https://assets.zeit.co/image/upload/v1538361091/repositories/next-js/next-js.png" alt="nextjs-image">
 </h1>
 
 <p align="center">Tutorial De Next.js em português para iniciantes.</p>
