@@ -36,7 +36,7 @@
 
 - Iniciando
 
-#### Recursos Básicos
+### Recursos Básicos
 
 - Paginas
 - Busca de Dados
@@ -44,25 +44,25 @@
 - Entrega de arquivos estáticos
 - TypeScript
 
-#### Rotas
+### Rotas
 
 - Introdução
 - Rotas Dinâmicas
 - Imperatividade
 - Rotas Superficiais
 
-#### Rotas de API
+### Rotas de API
 
 - Introdução
 - Rotas de API dinâmicas
 - Middlewares
 - Auxiliadores de Resposta
 
-#### Deployment
+### Deployment
 
 - Deployment
 
-#### Recursos Avançados
+### Recursos Avançados
 
 - Modo de pre-visualização
 - Importação dinâmica
@@ -82,11 +82,11 @@
 - Diretório Raiz
 - Multiplas Áreas
 
-#### Guia de Atualização
+### Guia de Atualização
 
 - Guia de Atualização
 
-#### FAQ
+### FAQ
 
 - Perguntas Frequentes
 
