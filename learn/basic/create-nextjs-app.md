@@ -139,4 +139,4 @@ Na próxima lição, falaremos sobre a criação de mais páginas e a navegaçã
 </a>
 </h1>
 
-[< Pagina Inicial](../../README.md#basico)
+[< Pagina Inicial](./navigate-between-pages.md#navegar-entre-paginas)
