@@ -135,7 +135,7 @@ Na próxima lição, falaremos sobre a criação de mais páginas e a navegaçã
 
 <h1 align="center">
 <a href="../../README.md#basico">
-  <img src="../../images/next-arrow.svg" alt="next-arrow" width="64px">
+  <img src="../../images/next-arrow.svg" alt="next-arrow" width="40px">
 </a>
 </h1>
 
