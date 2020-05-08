@@ -18,7 +18,7 @@
 
 ### Basico
 
-- [Criar um app Next.js](./learn/basic/create-nextjs-app.md)
+- [Criar um app Next.js](./learn/basic/create-nextjs-app.md#criando-app-nextjs)
 - Navegar entre as paginas
 - Assets, metadata e CSS
 - Pre-Renderizando e buscando dados
