@@ -1,7 +1,7 @@
-# NextJs4noobs
-
 <h1 align="center">
-  <img src="https://assets.zeit.co/image/upload/v1538361091/repositories/next-js/next-js.png" alt="nextjs-image">
+  <a href="https://nextjs.org/">
+    <img src="https://assets.zeit.co/image/upload/v1538361091/repositories/next-js/next-js.png" alt="nextjs-image">
+  </a>
 </h1>
 
 <p align="center">Tutorial De Next.js em português para iniciantes.</p>
@@ -12,58 +12,90 @@
   </a>
 </p>
 
-## Index
+# Índice
 
-### Aprender
+## Aprender
 
-#### Basico
+### Basico
 
-  1. Criar um app Next.js
-  2. Navegar entre as paginas
-  3. Assets, metadata e CSS
-  4. Pre-Renderizando e buscando dados
-  5. Rotas dinâmicas
-  6. Rotas de API
-  7. Fazendo deploy do seu app Next.js
+- [Criar um app Next.js](./learn/basic/create-nextjs-app.md)
+- Navegar entre as paginas
+- Assets, metadata e CSS
+- Pre-Renderizando e buscando dados
+- Rotas dinâmicas
+- Rotas de API
+- Fazendo deploy do seu app Next.js
 
-#### Intermediário
+### Intermediário
 
-  1. TypeScript
+- TypeScript
 
-### Documentação
+## Documentação
 
-#### Iniciando
+### Iniciando
 
-  1. Iniciando
+- Iniciando
 
 #### Recursos Básicos
 
-  1. Paginas
-  2. Busca de Dados
-  3. Suporte em CSS embutido
-  4. Entrega de arquivos estáticos
-  5. TypeScript
+- Paginas
+- Busca de Dados
+- Suporte em CSS embutido
+- Entrega de arquivos estáticos
+- TypeScript
 
 #### Rotas
-  
-  1. Introdução
-  2. Rotas Dinâmicas
-  3. Imperatividade
-  4. Rotas Superficiais
+
+- Introdução
+- Rotas Dinâmicas
+- Imperatividade
+- Rotas Superficiais
 
 #### Rotas de API
 
-  1. Introdução
-  2. Rotas de API dinâmicas
-  3. Middlewares
-  4. Auxiliadores de Resposta
+- Introdução
+- Rotas de API dinâmicas
+- Middlewares
+- Auxiliadores de Resposta
 
 #### Deployment
 
-  1. Deployment
+- Deployment
+
+#### Recursos Avançados
+
+- Modo de pre-visualização
+- Importação dinâmica
+- Otimização Automatica de estáticos
+- Exportação de HTML estático
+- Suporte de AMP
+  - Introdução
+  - Adicionando Componentes AMP
+  - Validação AMP
+  - AMP em exportação estática HTML
+  - TypeScript
+- Customização da configuração do Babel
+- Customização da configuração do Post CSS
+- Servidor Customizado
+- 'APP' customizado
+- Documento customizado
+- Diretório Raiz
+- Multiplas Áreas
+
+#### Guia de Atualização
+
+- Guia de Atualização
+
+#### FAQ
+
+- Perguntas Frequentes
 
 ## Autores
 
-* **Caio Almeida (gaviusking)** -  *Developer & Member of He4rt Developers* - [Instagram](https://instagram.com/ccaio_reis) / [Github](https://github.com/gaviusking)
+- **Caio Almeida (gaviusking)** -  *Developer & Member of He4rt Developers* - [Instagram](https://instagram.com/ccaio_reis) / [Github](https://github.com/gaviusking)
+
+## Fontes
+
+* [Next.Js](https://nextjs.org/)
 
 <p align="center">Made with <a href="https://github.com/he4rt">💜</a></p>
