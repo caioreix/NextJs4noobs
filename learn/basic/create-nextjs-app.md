@@ -139,4 +139,4 @@ Na próxima lição, falaremos sobre a criação de mais páginas e a navegaçã
 </a>
 </h1>
 
-<a href="../../README.md#basico/README.md#basico" align="center">< Pagina Inicial</a>
+[< Pagina Inicial](../../README.md#basico)
