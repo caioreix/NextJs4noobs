@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://nextjs.org/">
-    <img src="https://assets.zeit.co/image/upload/v1538361091/repositories/next-js/next-js.png" alt="nextjs-image">
+    <img src="./images/next-js.png" alt="nextjs-image">
   </a>
 </h1>
 
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+    <img src="./images/License-MIT-blue.svg" alt="License MIT">
   </a>
 </p>
 
