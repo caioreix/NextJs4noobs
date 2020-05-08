@@ -1,5 +1,5 @@
 [< Pagina Inicial](../../README.md#basico)
-<h2 align="center">Criando 'APP' Next.js</h2>
+<h1 align="center">Criando 'APP' Next.js</h1>
 
 ## Introdução
 
