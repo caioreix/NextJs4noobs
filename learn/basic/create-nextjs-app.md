@@ -134,7 +134,7 @@ Na próxima lição, falaremos sobre a criação de mais páginas e a navegaçã
 > Você deve manter o servidor de desenvolvimento em execução, mas se quiser reiniciá-lo, pressione `Ctrl+C` para parar o servidor.
 
 <h1 align="center">
-<a href="../../README.md#basico">
+<a href="./navigate-between-pages.md#navegar-entre-páginas">
   <img src="../../images/next-arrow.svg" alt="next-arrow" width="40px">
 </a>
 </h1>
