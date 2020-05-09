@@ -19,7 +19,7 @@
 ### Basico
 
 - [Criar um app Next.js](./learn/basic/create-nextjs-app.md#criando-app-nextjs)
-- [Navegar entre páginas](./learn/basic/navigate-between-pages.md#navegar-entre-paginas)
+- [Navegar entre páginas](./learn/basic/navigate-between-pages.md#navegar-entre-p%C3%A1ginas)
 - Assets, metadata e CSS
 - Pre-Renderizando e buscando dados
 - Rotas dinâmicas
