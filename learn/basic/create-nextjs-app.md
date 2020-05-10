@@ -94,14 +94,14 @@ Vamos verificar se está funcionando. Abra http://localhost:3000 no seu navegado
 
 Pergunta: Que texto você vê na página?
 
-- [ ] Welcome to Next.js!
+- [x] Welcome to Next.js!
 - [ ] Hello Next.js!
 
 ## Bem-vindo ao Next.js
 
 Você deverá ver uma página como essa ao acessar http://localhost:3000. Esta é a página de modelo inicial que mostra algumas informações úteis sobre o Next.js.
 
-![initial page](../../images/welcome-to-nextjs.png)
+<h1 align="center"><img src="../../images/welcome-to-nextjs.png"></h1>
 
 A ajuda está disponível: se você ficar preso, poderá entrar em contato com a comunidade nas [Discussões do GitHub](https://github.com/zeit/next.js/discussions).
 
@@ -121,7 +121,7 @@ Vamos tentar editar a página inicial.
 
 Assim que você salva o arquivo, o navegador recarrega e atualiza automaticamente a página com o novo texto:
 
-![Learn Next.Js!](../../images/learn-nextjs.png)
+<h1 align="center"><img src="../../images/learn-nextjs.png"></h1>
 
 O servidor de desenvolvimento Next.js. possui o recurso Hot Reloading. Quando você faz alterações nos arquivos, o Next.js aplica automaticamente as alterações no navegador. Nenhuma atualização necessária! Isso ajudará você a interagir rapidamente no seu aplicativo.
 
@@ -134,9 +134,10 @@ Na próxima lição, falaremos sobre a criação de mais páginas e a navegaçã
 > Você deve manter o servidor de desenvolvimento em execução, mas se quiser reiniciá-lo, pressione `Ctrl+C` para parar o servidor.
 
 <h1 align="center">
-<a href="../../README.md#basico">
+<a href="./navigate-between-pages.md#navegar-entre-paginas">
+  <img src="../../images/home.svg" alt="next-arrow" width="40px">
   <img src="../../images/next-arrow.svg" alt="next-arrow" width="40px">
 </a>
 </h1>
 
-[< Pagina Inicial](./navigate-between-pages.md#navegar-entre-paginas)
+[< Pagina Inicial](../../README.md#basico)
