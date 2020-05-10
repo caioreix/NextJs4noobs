@@ -1,5 +1,5 @@
 [< Pagina Inicial](../../README.md#basico)
-<h1 align="center">Criando 'APP' Next.js</h1>
+<h1 align="center">Navegar entre páginas</h1>
 
 ## Introdução
 
