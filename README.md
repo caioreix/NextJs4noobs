@@ -18,77 +18,19 @@
 
 ### Basico
 
-- [Criar um app Next.js](./learn/basic/create-nextjs-app.md#criando-app-nextjs)
-- [Navegar entre páginas](./learn/basic/navigate-between-pages.md#navegar-entre-p%C3%A1ginas)
-- Assets, metadata e CSS
-- Pre-Renderizando e buscando dados
-- Rotas dinâmicas
-- Rotas de API
-- Fazendo deploy do seu app Next.js
+- [Criar um app Next.js](./learn/basic/create-nextjs-app/1.md#criando-aplicativo-nextjs)
+- [Navegaando entre páginas](./learn/basic/navigate-between-pages/1.md#navegando-entre-p%C3%A1ginas)
+- [Recursos, metadados e CSS](./learn/basic/assets-metadata-css/1.md#recursos-metadados-e-css)
+- [Pre-Renderização e busca de dados](./learn/basic/data-fetching/1.md#pr%C3%A9-renderiza%C3%A7%C3%A3o-e-busca-de-dados)
+- [Rotas dinâmicas](./learn/basic/dynamic-routes/1.md#rotas-din%C3%A2micas)
+- [Rotas de API](./learn/basic/api-routes/1.md#rotas-de-api)
+- [Implantando o aplicativo Next.js](./learn/basic/deploying-nextjs-app/1.md#implantando-o-aplicativo-nextjs)
 
 ### Intermediário
 
 - TypeScript
 
-## Documentação
-
-### Iniciando
-
-- Iniciando
-
-### Recursos Básicos
-
-- Paginas
-- Busca de Dados
-- Suporte em CSS embutido
-- Entrega de arquivos estáticos
-- TypeScript
-
-### Rotas
-
-- Introdução
-- Rotas Dinâmicas
-- Imperatividade
-- Rotas Superficiais
-
-### Rotas de API
-
-- Introdução
-- Rotas de API dinâmicas
-- Middlewares
-- Auxiliadores de Resposta
-
-### Deployment
-
-- Deployment
-
-### Recursos Avançados
-
-- Modo de pre-visualização
-- Importação dinâmica
-- Otimização Automatica de estáticos
-- Exportação de HTML estático
-- Suporte de AMP
-  - Introdução
-  - Adicionando Componentes AMP
-  - Validação AMP
-  - AMP em exportação estática HTML
-  - TypeScript
-- Customização da configuração do Babel
-- Customização da configuração do Post CSS
-- Servidor Customizado
-- 'APP' customizado
-- Documento customizado
-- Diretório Raiz
-- Multiplas Áreas
-
-### Guia de Atualização
-
-- Guia de Atualização
-
-### FAQ
-
-- Perguntas Frequentes
+## EM BREVE(Documentação)
 
 ## Autores
 
