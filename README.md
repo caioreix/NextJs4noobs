@@ -19,7 +19,7 @@
 ### Basico
 
 - [Criar um app Next.js](./learn/basic/create-nextjs-app/1.md#criando-aplicativo-nextjs)
-- [Navegaando entre páginas](./learn/basic/navigate-between-pages/1.md#navegando-entre-p%C3%A1ginas)
+- [Navegando entre páginas](./learn/basic/navigate-between-pages/1.md#navegando-entre-p%C3%A1ginas)
 - [Recursos, metadados e CSS](./learn/basic/assets-metadata-css/1.md#recursos-metadados-e-css)
 - [Pre-Renderização e busca de dados](./learn/basic/data-fetching/1.md#pr%C3%A9-renderiza%C3%A7%C3%A3o-e-busca-de-dados)
 - [Rotas dinâmicas](./learn/basic/dynamic-routes/1.md#rotas-din%C3%A2micas)
