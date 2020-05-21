@@ -1,0 +1,1 @@
+const test = 'Em breve o projeto estará disponivel!';
